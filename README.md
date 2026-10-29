@@ -72,22 +72,9 @@ and experimentation.
 
 ## 🚀 Featured Projects
 
-### 01 · Machine-Learning-Assisted Vehicle Routing Optimization
 
-**Focus:** Machine Learning · Algorithms · Optimization
 
-A platform designed to recommend suitable optimization
-strategies for Vehicle Routing Problem (VRP) instances,
-then use optimization algorithms to generate routes.
-
-- Parsing benchmark VRP instances
-- Exploring Genetic Algorithms, 2-opt and Ant Colony Optimization
-- Building a machine-learning-assisted algorithm selection workflow
-- Evaluating route quality and runtime across benchmark instances
-
-**Tech:** Python, Machine Learning, Evolutionary Algorithms
-
-### 02 · CommunityHub — Forum Web Application
+### 01 · CommunityHub — Forum Web Application
 
 **Focus:** Full-Stack Development · Backend Engineering
 
@@ -101,7 +88,7 @@ a React frontend.
 
 **Tech:** Java, Spring Boot, React, MySQL
 
-### 03 · Customer Churn Predictor
+### 02 · Customer Churn Predictor
 
 **Focus:** Machine Learning · Predictive Analytics
 
@@ -115,7 +102,7 @@ using multiple classification approaches.
 
 **Tech:** Python, Scikit-learn, XGBoost, Streamlit
 
-### 04 · Student Performance Analyzer
+### 03 · Student Performance Analyzer
 
 **Focus:** Machine Learning · Fuzzy Logic
 
